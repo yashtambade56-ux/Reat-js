@@ -1,0 +1,101 @@
+.dashboardWrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100vh - 60px);
+  background-color: #1a1a1a;
+  color: white;
+  padding: 20px;
+  gap: 20px;
+}
+
+.dashboardTitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dashboardTitle h1 {
+  font-size: 48px;
+  margin: 0;
+  text-decoration: underline;
+  text-decoration-color: #90caf9;
+  text-decoration-thickness: 3px;
+  text-underline-offset: 8px;
+}
+
+.contentBox {
+  flex: 1;
+  background: linear-gradient(135deg, #840225 0%, #24bc0f 100%);
+  border-radius: 8px;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 300px;
+}
+
+.ProfileContainer,
+.SettingsContainer {
+  background-color: transparent;
+  padding: 30px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.ProfileContainer h1,
+.SettingsContainer h1 {
+  margin: 0;
+  color: #fff;
+  font-size: 24px;
+}
+
+.ProfileContainer p,
+.SettingsContainer p {
+  color: #fff;
+  line-height: 1.6;
+  margin: 10px 0 0 0;
+}
+
+.dashboardFooter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  border-top: 1px solid #333;
+}
+
+.footerNav {
+  display: flex;
+  gap: 30px;
+}
+
+.footerNav a {
+  color: #64b5f6;
+  text-decoration: underline;
+  font-size: 16px;
+  transition: color 0.3s;
+}
+
+.footerNav a:hover {
+  color: #90caf9;
+}
+
+.topNav {
+  display: flex;
+  gap: 20px;
+  padding: 15px 20px;
+  background-color: #1a1a1a;
+  border-bottom: 1px solid #333;
+}
+
+.topNav a {
+  color: #64b5f6;
+  text-decoration: underline;
+  font-size: 14px;
+  transition: color 0.3s;
+}
+
+.topNav a:hover {
+  color: #90caf9;
+}
+
