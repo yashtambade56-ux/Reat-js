@@ -1,0 +1,39 @@
+{
+    "students": [
+        {
+        "roll no":"01",
+        "name":"satvik",
+        "age":20,
+        "course":"btech",
+        "branch":"cse"
+     },
+     {
+        "roll no":"02",
+        "name":"Mukesh",
+        "age":20,
+        "course":"btech",
+        "branch":"cse"
+     },
+     {
+        "roll no":"03",
+        "name":"danish",
+        "age":20,
+        "course":"btech",
+        "branch":"cse"
+     },
+     {
+        "roll no":"04",
+        "name":"yash",
+        "age":20,
+        "course":"btech",
+        "branch":"cse"
+     },
+     {
+        "roll no":"05",
+        "name":"piyush",
+        "age":20,
+        "course":"btech",
+        "branch":"cse" 
+    }
+    ]
+}
