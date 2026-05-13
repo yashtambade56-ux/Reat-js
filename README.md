@@ -24,13 +24,17 @@ A day-wise log of my React JS learning progress, where I build a **Spotify-inspi
 
 ## 🏗️ Mini Project
 
-A fully functional **Spotify UI Clone** built with React + Vite, incorporating:
-- Sidebar with playlist navigation
-- Top navbar with search
-- Song list with play controls
-- Context API-based player state
-- Responsive layout
+🃏 Dev-Term Flashcards
+An interactive flashcard web app to learn programming/developer terminology — built as a React JS mini project.
+Key Points:
 
+🔄 Click-to-flip cards — each card shows a dev term on the front and its definition on the back
+💡 Programming vocabulary — covers common developer terms to help beginners get familiar with tech jargon
+🎨 Smooth flip animation — CSS-based 3D card flip for an engaging, interactive experience
+⚛️ Built with React + Vite — component-based architecture using functional components and useState
+🌐 Live & deployed — hosted on Vercel at dev-flash-cards-phi.vercel.app
+📁 Clean project structure — src/, public/, Documents/, and scratch/ folders for organised development
+🛠️ Tech stack — React.js, JavaScript (ES6+), HTML5, CSS3
 ---
 
 ## 🛠️ Tech Stack
