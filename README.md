@@ -1,77 +1,69 @@
-# ⚛️ React JS Learning Journey  
+# ⚛️ React JS Learning Journey
 
-This repository contains my **React JS learning progress**, where I am building a **Spotify-inspired UI** step by step.
-
----
-
-## 🚀 About  
-- ⚛️ Learning **React JS with Vite**  
-- 🎧 Building a **Spotify UI clone**  
-- 🧩 Understanding component structure  
-- 🎨 Practicing modern UI design  
-- 📈 Tracking daily progress  
+A day-wise log of my React JS learning progress, where I build a **Spotify-inspired UI** step by step using **React + Vite**.
 
 ---
 
-## 📅 Day-wise Progress  
+## 📅 Day-wise Progress
 
-### Day 01  
-**Introduction to React JS & Project Setup**  
-- What is React JS  
-- Created React app using **Vite**  
-- Understood project structure  
-- Built basic structure for Spotify UI  
-
----
-
-### Day 02  
-**UI Components (Logo & Search Bar)**  
-- Added Spotify-style logo  
-- Designed search bar  
-- Styled components using CSS / Tailwind  
-- Improved header UI  
+| Day | Topics Covered |
+|-----|----------------|
+| **Day 01** | Introduction to React JS — What is React, Setting up project with **Vite**, Understanding folder structure, Rendering first component |
+| **Day 02** | JSX & Components — Writing JSX, Functional Components, Adding Spotify-style **Logo** and **Search Bar** |
+| **Day 03** | Full Layout Design — **Sidebar**, **Navbar**, Main Content Area, Layout alignment and basic responsiveness |
+| **Day 04** | Props & Component Reusability — Passing data via **Props**, Reusable UI components (Cards, Buttons), Building playlist card components |
+| **Day 05** | State Management with `useState` — Managing UI state, Toggle play/pause button, Dynamic rendering based on state |
+| **Day 06** | Event Handling & Conditional Rendering — `onClick`, `onChange` handlers, Showing/hiding UI sections conditionally |
+| **Day 07** | Lists & Keys — Rendering song/playlist lists using `map()`, Using unique `key` props, Populating sidebar with dynamic data |
+| **Day 08** | `useEffect` Hook — Fetching data on component mount, Simulating API calls, Side effects in functional components |
+| **Day 09** | React Router — Setting up `react-router-dom`, Navigation between pages (Home, Search, Library), Active link styling |
+| **Day 10** | Context API — Global state management with `createContext` and `useContext`, Sharing player state across components |
+| **Day 11** | CSS Modules & Final Styling — Scoped styling with CSS Modules / Tailwind CSS, Final UI polish, Responsive design tweaks |
 
 ---
 
-### Day 03  
-**Full Layout Design (Spotify Clone)**  
-- Created complete layout structure  
-- Sidebar, Navbar, Main content area  
-- UI alignment and responsiveness  
-- Improved overall design  
+## 🏗️ Mini Project
+
+A fully functional **Spotify UI Clone** built with React + Vite, incorporating:
+- Sidebar with playlist navigation
+- Top navbar with search
+- Song list with play controls
+- Context API-based player state
+- Responsive layout
 
 ---
 
-## 📚 What I Learned  
+## 🛠️ Tech Stack
 
-- React project setup using Vite ⚡  
-- Component-based structure  
-- UI building in React  
-- Layout design techniques  
-- Basic styling in React  
-
----
-
-## 🛠️ Tech Stack  
-
-- React JS ⚛️  
-- Vite ⚡  
-- JavaScript  
-- HTML  
-- CSS / Tailwind  
+| Technology | Purpose |
+|------------|---------|
+| ⚛️ React JS | UI library |
+| ⚡ Vite | Build tool & dev server |
+| 🟨 JavaScript (ES6+) | Core logic |
+| 🎨 CSS / Tailwind CSS | Styling |
+| 🔀 React Router DOM | Page navigation |
+| 🌐 Context API | State management |
 
 ---
 
-## 🎯 Goal  
+## 📚 Concepts Covered
 
-- Build a complete **Spotify Clone 🎧**  
-- Learn advanced **React concepts**  
-- Improve UI/UX design skills  
-- Create real-world projects  
+- ✅ React project setup with Vite
+- ✅ JSX syntax and expressions
+- ✅ Functional components
+- ✅ Props and component reusability
+- ✅ `useState` and `useEffect` hooks
+- ✅ Event handling
+- ✅ Conditional rendering
+- ✅ Lists and keys
+- ✅ React Router DOM
+- ✅ Context API for global state
+- ✅ CSS Modules / Tailwind styling
+- ✅ Responsive UI design
 
 ---
 
-## 📌 Author  
+## 🎯 Goal
 
-**Yash Tambade**  
-🔗 https://github.com/yashtambade56-ux  
+Build a complete **Spotify Clone 🎧** while mastering core React concepts, component-driven architecture, and modern frontend development practices.
+
